@@ -12,7 +12,7 @@ Tasks on this dataset include viewing changes at a specific instrument over time
 
 ### Tools \& Solution
 
-A web friendly solution is important for our tool to be easily useable. Likely, an implementation will involve a server side component as well as a database. Likely, we will use Python and a flavour of SQL to accomplish that. Both of these tools have been used successfully in a myriad of projects with similar technical requirements to ours, which makes them a reliable choice. On the client side, we are actively investigating which JavaScript libraries will be the most effective for our goals. 
+A web friendly solution is important for our tool to be easily useable. Likely, an implementation will involve a server side component as well as a database. A possible implementation will use Python and a flavour of SQL to accomplish that. Both of these tools have been used successfully in a myriad of projects with similar technical requirements to ours, which makes them a reliable choice. On the client side, we are actively investigating which JavaScript libraries will be the most effective for our goals, however we feel it is important to validate some of our design before commiting to a very specific toolchain. 
 
 
 ### Evaluation
