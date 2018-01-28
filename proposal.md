@@ -1,6 +1,6 @@
 ## Proposal 
 
-Oceans Network Canada (ONC) recently put out a request for proposals concerning graphic user interfaces to help users better access the date they collect. ONC has a large number of subsea instruments that communicate information 24/7 to ONC's base at the University of Victoria. From ONC's request,
+ ONC has a large number of subsea instruments that communicate information 24/7 to ONC's base at the University of Victoria. There do not exist, however, sophisticated tools to visualize the data they currently store. From ONC's request,
 
 > These instruments collect data on physical, chemical, biological, and geological aspects of the
 ocean over long time periods
@@ -20,6 +20,14 @@ A web friendly solution is important for our tool to be easily useable. Likely, 
 Our primary method of validation will be user studies of our designs and implementation. ONC is based at the University of Victoria, and we are able to work with some of the researchers there to insure our implementation meets their needs. 
 
 
+#### Work distribution
+TODO
+
+
+
+#### References/Links
+http://www.oceannetworks.ca/
+Data available at: http://dmas.uvic.ca/home
 
 
 
