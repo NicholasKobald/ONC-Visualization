@@ -1,6 +1,6 @@
 ## Proposal 
 
- ONC has a large number of subsea instruments that communicate information 24/7 to ONC's base at the University of Victoria. There do not exist, however, sophisticated tools to visualize the data they currently store. From ONC's request,
+ Ocean Networks Canada (ONC) has a large number of subsea instruments that communicate information 24/7 to ONC's base at the University of Victoria. There do not exist, however, sophisticated tools to visualize the data they currently store. From ONC's request,
 
 > These instruments collect data on physical, chemical, biological, and geological aspects of the
 ocean over long time periods
@@ -21,8 +21,8 @@ Our primary method of validation will be user studies of our designs and impleme
 
 
 #### Work distribution
-TODO
-
+* Frontend design: Matt
+* Backend design and development: Matt
 
 
 #### References/Links
