@@ -21,9 +21,12 @@ Our primary method of validation will be user studies of our designs and impleme
 
 
 #### Work distribution
-* Frontend design: Matt
-* Backend design and development: Matt
-
+* Frontend design, mock ups: Matt, Kevin
+* Frontend implementation: Kevin
+* Backend design and development: Matt, Nick 
+* Editing/writing paper: Nick, Matt, Kevin, Kathleen
+* Reviewing Implementation (both FE and BE)/Validation: Nick, Matt, Kevin, Kathleen 
+* Requirements gathering with ONC: Nick, Kathleen, Kevin
 
 #### References/Links
 http://www.oceannetworks.ca/
