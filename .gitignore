@@ -6,12 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+# Oceans networks things we may need to ignore/keep locally 
+onc
+
+# why not 
+.vscode/ 
+
 # Distribution / packaging
 .Python
 env/
 build/
 develop-eggs/
 dist/
+.venv/
 downloads/
 eggs/
 .eggs/
