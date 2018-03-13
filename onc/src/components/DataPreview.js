@@ -3,6 +3,8 @@ import PropTypes from 'prop-types';
 
 class DataPreview extends Component {
 	
+	// Just a simple class to show getting props from different sections, and getting updates.
+	
 	componentWillReceiveProps(nextProps) {
         this.props = nextProps;
     }
