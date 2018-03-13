@@ -1,0 +1,42 @@
+.navigation-header {
+	background: blue;
+	height: 150px;
+	z-index: 1000;
+}
+
+.button-area {
+	display: flex;
+    flex-direction: row;
+	color: white;
+	width: 80%
+}
+
+.project-name {
+	text-align: right;
+	padding: 5px;
+	/*display: inline-block;*/
+	flex: 10%;
+}
+
+.nav-button {
+	display: flex;
+	flex: 10%;
+	z-index: 1000;
+	/*padding: 10px;*/
+}
+
+.nav-button-selected {
+	background: green;
+}
+
+.nav-button p {
+	text-align: center;
+	position: relative;
+	margin-top: 60%;
+	height: 50px;
+	width: 100%;
+}
+
+.nav-button:hover {
+	background: green;
+}

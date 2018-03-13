@@ -1,0 +1,19 @@
+.side-area {
+	flex: 15%;
+	display: flex;
+	height: 100%;
+	flex-direction: column;
+	background: deepskyblue;
+}
+
+.side-button {
+	height: 40px;
+	/*display: block;*/
+	text-align: left;
+	padding: 10px;
+	color: white;
+}
+
+.side-button:hover {
+	background: red;
+}
