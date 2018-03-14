@@ -6,6 +6,7 @@ import Navigation from "./components/Navigation.js";
 import SideScroll from "./components/SideScroll.js";
 import DataSearch from "./components/DataSearch.js";
 import DataPreview from "./components/DataPreview.js"
+import BarChart from './BarChart';
 
 class App extends Component {
 	constructor() {
@@ -45,13 +46,14 @@ class App extends Component {
 			<div className="App">
 			
 				// Binding a function makes it execute in this (App.js) scope,
-				// Not the child, but with parameters from the child.
+				// Not the child, but with parameters from the child.}
 				<Navigation current_page={this.state.current_page} handle_change_page={this.change_page.bind(this)}/>
 				<div className="content-area">
 					
 					<SideScroll handle_change_sidebar={this.change_sidebar.bind(this)}/>
 					<div className="main-content">
-						// here we use the dynamically view from before!
+						// here we use the dynamically view from before! !
+						<BarChart data={[5,10,1,3]} size={[500,500]} /> 
 						{current_view}
 					</div>
 				</div>
